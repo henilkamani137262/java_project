@@ -1,0 +1,2 @@
+javac -cp ".;LIB\ojdbc11.jar" *.java
+java -cp ".;LIB\ojdbc11.jar" MainFrame
